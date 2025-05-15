@@ -21,6 +21,7 @@ The final output will be a polished, insight-rich report ready for presentation 
 ✅ Summarize and report insights in a reproducible format
 
 🗂️ Project Segments (Step-by-Step):
+
 1️⃣ Data Collection
 Source: Our World in Data (OWID)
 
