@@ -80,6 +80,7 @@ Highlight outliers or interesting trends
 Use Markdown cells to narrate findings
 
 📤 Deliverables:
+
 ✅ Clean, commented Jupyter Notebook
 
 ✅ Includes code, visuals, and narrative
@@ -105,6 +106,7 @@ Dashboard with Streamlit or Dash
 Add ICU/hospitalization metrics (if data available)
 
 Achievements Upon Completion
+
 Imported, cleaned, and explored COVID-19 data
 
 Performed detailed EDA and comparisons
